@@ -6,8 +6,8 @@
 # Tecnologias
 
 <p>
-- HTML
-- CSS
-- JS
-- NodeJS
+- HTML  
+- CSS  
+- JS  
+- NodeJS  
 </p>
