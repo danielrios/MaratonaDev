@@ -1,0 +1,25 @@
+{
+  "name": "maratonadev",
+  "version": "1.0.0",
+  "description": "<img src=\"logo.png\" alt=\"DOE\" width=\"100px\" margin=\"60px 0\">  \r <p>Um site com intuito de incentivar a doação de sangue</p>",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "nodemon server.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dederios/MaratonaDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dederios/MaratonaDev/issues"
+  },
+  "homepage": "https://github.com/Dederios/MaratonaDev#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "nunjucks": "^3.2.0"
+  }
+}
