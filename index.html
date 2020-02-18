@@ -23,17 +23,17 @@
 
     <section class="form hide">
         <h2>Entre na lista de doadores</h2>
-        <form action="">
-            <input type="text" name="name" placeholder="Nome Completo">
+        <form action="" onsubmit="return false;">
+            <input id="nome" type="text" name="name" placeholder="Nome Completo">
             <input type="text" name="email" placeholder="Email">
-            <input type="text" name="blood" placeholder="Tipo sanguíneo">
-            <button>Quero ajudar</button>
+            <input id="sangue" type="text" name="blood" placeholder="Tipo sanguíneo">
+            <button onclick="add()">Quero ajudar</button>
         </form>
     </section>
 
     <main>
         <h2>Últimos <span>doadores</span></h2>
-        <section class="donors">
+        <section class="donors" id="doadores">
             <div class="donor">
                 <div class="blood">AB+</div>
                 <p>Daniel Rios</p>
