@@ -14,16 +14,15 @@ function add() {
 
     var bloodDiv = document.createElement('div');
     bloodDiv.setAttribute('class', 'blood');
+    var textBlood = document.createTextNode(inputElementBlood.value);
+    bloodDiv.appendChild(textBlood);
 
     var nameP = document.createElement('p');
-
     var textName = document.createTextNode(inputElementName.value);
-    var textBlood = document.createTextNode(inputElementBlood.value);
-
-    bloodDiv.appendChild(textBlood);
     nameP.appendChild(textName);
 
     donorsDiv.appendChild(bloodDiv);
     donorsDiv.appendChild(nameP);
+    
     sectionElement.appendChild(donorsDiv);
 }
