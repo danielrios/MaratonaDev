@@ -7,6 +7,7 @@
 # Tecnologias  
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 - [Node.js](https://nodejs.org/en/)  
 - [PostgreSQL](https://www.postgresql.org)  
 
