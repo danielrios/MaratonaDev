@@ -1,7 +1,7 @@
 # Projeto
 
 <img src="public/logo.png" alt="DOE" width="100px" margin="60px 0">  
-<p>Disponível em https://dederios.github.io/MaratonaDev</p>  
+<p>Disponível em https://danielrios.github.io/MaratonaDev</p>  
 <p>Um site com intuito de incentivar a doação de sangue</p>  
 
 # Tecnologias  
